@@ -1,3 +1,3 @@
-<h1>Data Professional Survey</h1>
-<p>Contains a visual representation of a survey done to analyze the parameters such as salary, work/life balance, country of residence, satisfaction and many more.</p>
-<p>The survey was taken by 600+ people.</p>
+<h1>Data Visualisation Projects</h1>
+<p>This is a repository of my Data Visualisation Projects I made using Power BI </p>
+<p>Datasets were taken from Kaggle mainly but I also got some from competitions and college events</p>
